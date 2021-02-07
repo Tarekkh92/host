@@ -1,0 +1,17 @@
+.white{
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;
+}
+select{
+    /* width: 100px; */
+    height:60px;
+    /* color: red; */
+    /* border-bottom-right-radius:20px; */
+    /* border-top-right-radius:20px;  */
+    width: 100px;
+    position: relative;
+    /* top: -px; */
+    border-color: transparent;
+   
+}
